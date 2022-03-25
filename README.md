@@ -1,4 +1,4 @@
-# Daily-Planner
+# Work-Day-Scheduler
 
 This is a work day schedular application that enable the user to plan his/her time in a hourly calendar and assign colors to present, past and future hours. Stores and retrieve every data into and from the local storage.
 
